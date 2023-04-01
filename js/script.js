@@ -3,7 +3,7 @@ function init(){
 function myEventFunction(){
   var textbox = document.getElementById('entryinput');
   document.getElementById('textoutput').innerHTML = textbox.value;
-  alert('Edwin Bahena:' + textbox.value);
+  alert('Edwin Bahena: This is a test');
 }
 
 
